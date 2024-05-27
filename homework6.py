@@ -1,18 +1,3 @@
-# phone_book = {'Denis': 88000000, 'Max' : 456454654}
-# print(phone_book['Max'])
-
-# phone_book = {}
-# phone_book ['dsfghjk'] = 456
-# phone_book ['awrewef'] = 78954
-# phone_book.update({'qwewqe': 4561231,
-#                    'zxczcv' : 1234567,
-#                    'zxczvvbn' : 4441231})
-#
-# print(phone_book.get('sadghjfgjcwsev'))
-
-# set_ = {1, 4564, 23, 23 ,1}
-# print(set_)
-
 my_dict = {'one': 10, 'two': 20, 'three': 30, 'four': 40}
 print('Dict: ', my_dict)
 print('Existing value: ', my_dict['two'])
